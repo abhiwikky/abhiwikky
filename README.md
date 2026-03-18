@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=abhiwikky&color=0e75b6&style=flat)
 ---
+[![🌐 Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhijith.is-a.dev)
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiwikky/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhi_jit_h?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abhi_jit_h)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhi.jit.h)
